@@ -1,0 +1,11 @@
+/* static/style.css */
+body {
+    font-family: "Microsoft YaHei", sans-serif;  /* 字体改为微软雅黑 */
+}
+#resultArea {
+    background-color: #f8f9fa;  /* 结果区背景浅灰 */
+    border-radius: 5px;        /* 圆角 */
+}
+.btn-primary {
+    background-color: #007bff; /* 按钮颜色（Bootstrap默认，可自定义） */
+}
