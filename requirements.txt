@@ -1,0 +1,3 @@
+Flask==2.3.3          # Flask框架
+gunicorn==21.2.0      # 部署用的WSGI服务器（PythonAnywhere需用）
+# 补充你的Python仓库依赖（比如pandas、numpy等）
